@@ -1,10 +1,6 @@
 <?php
 
-namespace WideImage;
-
-use WideImage\WideImage;
-
-class Thumb {
+class WideImageThumb {
 
 	static $format = array(
 		'default'  => array(
