@@ -3,7 +3,7 @@
     "description": "Thumb Generator for WideImage",
     "homepage": "https://github.com/mdjest/wideimage-thumb",
     "type": "library",
-    "version": "0.9.0",
+    "version": "1.0.0",
     "autoload": {
         "psr-0" : {
           "WideImageThumb" : "src/"
