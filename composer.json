@@ -1,0 +1,8 @@
+{
+    "name": "ThumbGenerator",
+    "description": "Thumb Generator for WideImage",
+    "require": {
+        "php": "^5.4.42 || ^7.0",
+        "smottt/wideimage" : "1.1.2"
+    }
+}
